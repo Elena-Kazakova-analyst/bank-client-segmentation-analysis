@@ -62,4 +62,4 @@ Python: Pandas (предобработка), NumPy (математические
 Профессиональные группы: Клиенты с кодом профессии 10 значительно чаще открывают карты, что выделяет их как перспективный сегмент.
 
 🔗 Ссылки
-Ноутбук с кодом: [
+Ноутбук с кодом: [https://nbviewer.org/github/Elena-Kazakova-analyst/bank-client-segmentation-analysis/blob/main/bank-client-segmentation-analysis.ipynb]
